@@ -4,7 +4,7 @@ Hi 👋 My name is Nathan Do
 Student Developer
 -----------------
 
-I am a second-year student studying Computer Science who's focus is to become a Web Developer.
+I am a third-year student studying Computer Science who's focus is to become a Web Developer.
 
 * 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [nathanyingdo@gmail.com](mailto:nathanyingdo@gmail.com)
